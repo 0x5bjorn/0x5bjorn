@@ -4,7 +4,7 @@
 - Enthusiastic about rebuilding existing _"round wheels"_ as _"square"_ ones
 
 ### 📝 Current activities
-- Basic Continuous Integration (CI) type of system using Go to learn the language
+- Go programming language
 - Memory Allocation Strategies using C
 
 [//]: # (🛠️ 🧰 🪛 ⚗️)
