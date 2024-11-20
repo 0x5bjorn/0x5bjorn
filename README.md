@@ -4,8 +4,7 @@
 - Enthusiastic about rebuilding existing _"round wheels"_ as _"square"_ ones
 
 ### 📝 Current activities
-- Go programming language
-- Graphics programming with OpenGL and C++
-- Rust programming language
+- Basic Continuous Integration (CI) type of system using Go to learn the language
+- Memory Allocation Strategies using C
 
 [//]: # (🛠️ 🧰 🪛 ⚗️)
